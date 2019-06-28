@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Pirulen Rg';
+    src: url('PirulenRg-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+.Logo{
+    font-family: "Pirulen Rg";
+    font-style: normal;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    /* user-select: none; */
+    color: #66CBE3;
+}

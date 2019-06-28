@@ -1,0 +1,16 @@
+.searchBarInput{
+    background-color: #2e2e2e;
+    outline: none;
+    border: none;
+    padding: 15px;
+    width: 400px;
+}
+
+.searchBarButton{
+    color: #eeeeee;
+}
+
+.searchBarForm{
+    border: 1.5px solid #eee;
+    border-radius: 5px;
+}

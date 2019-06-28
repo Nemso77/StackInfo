@@ -1,0 +1,11 @@
+.addPostLink{
+    color: white;
+    text-decoration: none;
+    background-color: #2e2e2e;
+}
+
+.addPostButton {
+    background-color: #2e2e2e;
+    padding: 5px 8px;
+    border: 1px solid #ddd;
+}

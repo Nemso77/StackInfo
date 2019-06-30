@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import Header from './Header/Header';
+import DetailedInfo from './MainComponents/PostList/DetailedInfo/DetailedInfo';
 
 class App extends Component {
   render() {
@@ -10,11 +11,11 @@ class App extends Component {
           <Header/>
         </div>
         <div className="MainPartFlow">
-          <div className="PostComponents">
-
+          <div className="MainComponents">
+            <DetailedInfo/>
           </div>
           <div className="Sidebar">
-
+            <p>sidebar</p>
           </div>
         </div>
       </div>

@@ -1,0 +1,28 @@
+.DetailedInfoDumb{
+    background-color: #3d3636;
+}
+
+.DetailedInfoDumb__Title{
+    text-decoration: none;
+    color: #a79db1;
+}
+
+.DetailedInfoDumb__Title:hover{
+    color: yellowgreen;
+}
+
+.DetailedInfoDumb__Author{
+    color: #fff;
+}
+
+.DetailedInfoDumb__Date {
+    color: #fff;
+}
+
+.DetailedInfoDumb__Tags{
+    color: yellow;
+}
+
+.DetailedInfoDumb__Tags__Links{
+    color: wheat;
+}

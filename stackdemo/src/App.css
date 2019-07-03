@@ -2,3 +2,18 @@
   text-align: center;
   background-color: #2e2e2e;
 }
+
+.MainPartFlow{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.MainComponents{
+  width: 75%;
+}
+
+.Sidebar{
+  width: 20%;
+  background-color: grey;
+}

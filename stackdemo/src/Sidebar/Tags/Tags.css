@@ -1,0 +1,8 @@
+.TagGeneralStyles{
+    font-family: 'Russo One', sans-serif; /*imported in index html file! */
+    background-color: rgb(43, 37, 37);
+    display: inline-block;
+    padding: 10px;
+    margin: 10px; /* Change it later! */
+    text-decoration: none;
+}

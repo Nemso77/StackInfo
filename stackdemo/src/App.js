@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import './App.css';
 import Header from './Header/Header';
 import DetailedInfo from './MainComponents/PostList/DetailedInfo/DetailedInfo';
+import Tags from './Sidebar/Tags/Tags';
 
 class App extends Component {
   render() {
@@ -15,7 +16,9 @@ class App extends Component {
             <DetailedInfo/>
           </div>
           <div className="Sidebar">
-            <p>sidebar</p>
+            <div className="Tags">
+              <Tags/>
+            </div>
           </div>
         </div>
       </div>

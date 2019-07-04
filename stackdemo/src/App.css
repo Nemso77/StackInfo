@@ -11,6 +11,9 @@
 
 .MainComponents{
   width: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .Sidebar{
